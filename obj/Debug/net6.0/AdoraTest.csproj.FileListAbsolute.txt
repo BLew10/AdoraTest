@@ -1,0 +1,15 @@
+C:\Users\Brand\Projects2023\AdoraTest\bin\Debug\net6.0\AdoraTest.exe
+C:\Users\Brand\Projects2023\AdoraTest\bin\Debug\net6.0\AdoraTest.deps.json
+C:\Users\Brand\Projects2023\AdoraTest\bin\Debug\net6.0\AdoraTest.runtimeconfig.json
+C:\Users\Brand\Projects2023\AdoraTest\bin\Debug\net6.0\AdoraTest.dll
+C:\Users\Brand\Projects2023\AdoraTest\bin\Debug\net6.0\AdoraTest.pdb
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.csproj.AssemblyReference.cache
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.AssemblyInfoInputs.cache
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.AssemblyInfo.cs
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.csproj.CoreCompileInputs.cache
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.dll
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\refint\AdoraTest.dll
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.pdb
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\AdoraTest.genruntimeconfig.cache
+C:\Users\Brand\Projects2023\AdoraTest\obj\Debug\net6.0\ref\AdoraTest.dll

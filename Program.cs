@@ -67,7 +67,7 @@ andrew.GoToParty("Chris's wedding");
 
 andrew.GoToOpera("Othello");
 
-andrew.EmailExamResult("Chemistry", 4);
+andrew.EmailExamResult("Biologgy", 4);
 
 Console.ReadKey();
 

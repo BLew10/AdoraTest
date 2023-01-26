@@ -63,6 +63,7 @@ eric.EmailExamResult("Math", 4);
 
 
 LastYearStudent andrew = new LastYearStudent("Andrew", "Hanna", "ahanna@test.com",new DateTime(2000, 11, 15), new List<Hobby>() { Hobby.Movies, Hobby.Music, Hobby.Cars },14, "Helen St.", "Rocklin", 95985, "CA", 5);
+
 andrew.GoToParty("Chris's wedding");
 
 andrew.GoToOpera("Othello");

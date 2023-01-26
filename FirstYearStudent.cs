@@ -33,7 +33,7 @@ public class FirstYearStudent : Student
 
         public override void EmailExamResult(string discipline, int mark)
         {
-            if (!Disciplines.Contains(discipline.ToLower()))
+            if (!DisciplinesOptions.Contains(discipline.ToLower()))
             {
                 throw new Exception("Discipline is not available.");
             }

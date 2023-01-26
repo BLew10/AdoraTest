@@ -21,7 +21,7 @@ abstract public class Student
 
         public string State { get; set; }
 
-        protected List<string> Disciplines = new List<string>() {"computer science", "math", "biology", "chemistry", "history", "physics", "english"};
+        protected List<string> DisciplinesOptions = new List<string>() {"computer science", "math", "biology", "chemistry", "history", "physics", "english"};
 
         // Given the access modifier "protected" so that the methods of _emailer and  are only accessible within the child classes
         protected Emailer _emailer;
